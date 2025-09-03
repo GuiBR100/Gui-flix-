@@ -1,8 +1,9 @@
 body {
      color: white;
        background: black;
+  margin: 0px;
 }
 
 header {
- border: solid 2xp white;
+ border-bottom: solid 2xp white;
 }
